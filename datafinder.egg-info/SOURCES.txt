@@ -1,0 +1,7 @@
+README.md
+setup.py
+datafinder.egg-info/PKG-INFO
+datafinder.egg-info/SOURCES.txt
+datafinder.egg-info/dependency_links.txt
+datafinder.egg-info/requires.txt
+datafinder.egg-info/top_level.txt
